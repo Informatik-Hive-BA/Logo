@@ -1,0 +1,13 @@
+<svg width="255" height="255" viewBox="0 0 255 255" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#446879" />
+            <stop offset="100%" stop-color="#282e48" />
+        </linearGradient>
+    </defs>
+    <polygon points="60,0 0,127 60,255 195,255 255,127 195,0" style="fill:url(#grad1)"/>
+    <text y="94" dy="0" font-family="JetBrains Mono" font-size="40" fill="white">
+        <tspan x="1em" dy=".6em">Informatik</tspan>
+        <tspan x="1.5em" dy="1.2em">Hive BA</tspan>
+    </text>
+</svg>
